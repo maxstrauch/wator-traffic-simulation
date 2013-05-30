@@ -9,7 +9,7 @@ Also a traffic simulation is implemented after the Nagel–Schreckenberg model f
 
 In order to get it running, download the executable jar file and make sure that you have installed the lasted Java version (Java 1.6+).
 
-You can download it here: https://github.com/maxstrauch/wator-traffic-simulation/build/wator-traffic-simulation.jar
+You can download it here: https://github.com/maxstrauch/wator-traffic-simulation/raw/master/build/wator-traffic-simulation.jar
 
 # License
 
