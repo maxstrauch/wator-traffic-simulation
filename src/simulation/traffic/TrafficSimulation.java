@@ -29,7 +29,7 @@ public class TrafficSimulation {
         
         HighwaySimulationGui hiWa = new HighwaySimulationGui();
         hiWa.setOpaque(false);
-        tab.addTab("Hightway", hiWa);
+        tab.addTab("Highway", hiWa);
         
         MotorwaySimulationGui moWa = new MotorwaySimulationGui();
         moWa.setOpaque(false);
