@@ -8,6 +8,8 @@ Also a traffic simulation is implemented in manner of the Nagel–Schreckenberg 
  - highways with a single lane and traffic lights
  - motorways with two lanes to let the cars overtake
 
+[![Screenshot of the program](/screenshot.png?raw=true)](/screenshot.png?raw=true).
+
 # Get it running
 
 In order to get it running, download the executable file and make sure that you have installed the latest Java version (Java 1.6+).
